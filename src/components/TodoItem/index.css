@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.theoutside {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  justify-content: space-between;
+}
+.the-button {
+  border: solid 10px #ff0b37;
+  border-radius: 10px;
+  background-color: transparent;
+}
